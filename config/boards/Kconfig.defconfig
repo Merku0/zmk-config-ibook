@@ -1,6 +1,6 @@
-if SHIELD_yuzy 
+if SHIELD_YUZY
 
 confif ZMK_KEYBARD_NAME
-    default "yuzy"
+    default "Yuzy"
 
 endif
