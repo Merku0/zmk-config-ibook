@@ -1,0 +1,2 @@
+config SHIELD_yuzy
+    def_bool $(shields_list_contians, yuzy)
