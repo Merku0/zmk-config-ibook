@@ -1,6 +1,6 @@
 if SHIELD_YUZY
 
-config ZMK_KEYBARD_NAME
+config ZMK_KEYBOARD_NAME
     default "Yuzy"
 
 endif
