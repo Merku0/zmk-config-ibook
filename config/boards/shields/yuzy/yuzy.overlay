@@ -63,9 +63,4 @@
         >;
     };
 
-physical_layout {
-    compatible = "zmk,physical-layout";
-    kscan = <&kscan>; // Label of the kscan node this layout uses
-    transform = <&transform>; // Label of the matrix transform this layout uses
-    };
-};
+
