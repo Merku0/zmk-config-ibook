@@ -25,7 +25,7 @@
             display-name = "Function";
 
             bindings = <
-              &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans &kp trans  
+              &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans  
               &kp TILDE &kp F1    &kp F2    &kp F3    &kp F4    &kp F5    &kp F6    &kp LBRC &kp LBKT &kp RBKT  &kp RBRC  &kp F11   &kp F12   &trans   &kp END
               &trans    &kp AT    &trans    &trans    &trans    &trans    &trans    &trans    &trans  &trans    &trans    &trans    &TILDE    &trans   &bootloader
               &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans  &trans    &trans    &trans              &trans   &trans
